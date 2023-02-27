@@ -70,7 +70,7 @@ I hope this diatribe just sparked an aha-moment, but if not, hopefully finishing
     * Finally, use the **Game** object to call the **play** method and play the game.
 
 ## Part 4 - Turn in
-1. Make sure to create a local **Sprint2023** branch as we've done all semester.
+1. Make sure to create a local **Spring2023** branch as we've done all semester.
 2. Commit and push that branch to your GitHub Account's Fork of Java-Lab-005
 3. Create a Pull request back to my Java-Lab-005 Repo.
 4. Paste your Pull request URL into Canvas to complete the assignment.
